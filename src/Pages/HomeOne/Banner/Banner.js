@@ -8,7 +8,7 @@ const Banner = () => {
                 <div className="row">
                     <div className="col-xl-12">
                         <div className="banner__area-content">
-                            <h1>Hi! <span>MUHAMMAD AZEEM</span></h1> 
+                            <h1>Hi! <span>M. AZEEM</span></h1> 
                             <Link className="theme-btn" to="/portfolio">My Projects <i className="fal fa-long-arrow-right"></i></Link> 
                         </div>
                     </div>
