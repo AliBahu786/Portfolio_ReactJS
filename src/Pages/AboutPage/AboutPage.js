@@ -37,9 +37,9 @@ const AboutPage = () => {
     // ];    
     const counterData = [
         {
-            id: 100,
-            description: 'Project Complete Last 4 Years',
-            value: 'K'
+            id: 30,
+            description: 'Projects Completed Last 4 Years',
+            value: '+'
         },
         {
             id: 95,
@@ -47,9 +47,9 @@ const AboutPage = () => {
             value: '%'
         },
         {
-            id: 100,
-            description: 'Project Complete Last 4 Years',
-            value: '+'
+            id: 20,
+            description: 'Earned In Last 4 Years',
+            value: 'k'
         },
         {
             id: 20,
